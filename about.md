@@ -8,7 +8,8 @@ permalink: /about/
 
 ### More Information
 
-프로젝트 제안자 : 박찬엽(만 31세)
+프로젝트 진행자 : 박찬엽(만 31세)
+프로젝트 제안자 : 안세은,하지은
 
 ### Contact me
 
