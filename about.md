@@ -9,6 +9,7 @@ permalink: /about/
 ### More Information
 
 프로젝트 진행자 : 박찬엽(만 31세)<br>
+연락은 하단의 다양한 수단을 통해 가능합니다.<br>
 프로젝트 제안자 : 안세은,하지은
 
 ### Contact me
